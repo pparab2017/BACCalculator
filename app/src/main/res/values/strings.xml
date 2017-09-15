@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name"> BAC Calculator </string>
+    <string name="lblGender">Gender</string>
+    <string name="lblWeight">Weight (lbs)</string>
+    <string name="btnSave">Save</string>
+    <string name="radio1oz">1 oz</string>
+    <string name="radio5Oz">5 oz</string>
+    <string name="lblDrinkSize">Drink size</string>
+    <string name="radio12oz">12 oz</string>
+    <string name="lblAlcohol">Alcohol %</string>
+    <string name="btnAddDrink">Add Drink</string>
+    <string name="btnReset">Reset</string>
+    <string name="lblBacLevel">BAC level:</string>
+    <string name="lblStatus">Your Status:</string>
+    <string name="hint">Enter weight</string>
+    <string name="lblGenderVal">F</string>
+    <string name="lblSafe">You are safe</string>
+    <string name="lblCarefull">Be careful..</string>
+    <string name="lblOfflimit">Over the limit!</string>
+    <string name="lblErrorForWeight">This field can not be blank or 0, also make sure to hit save!</string>
+</resources>
